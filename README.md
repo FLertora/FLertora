@@ -13,7 +13,7 @@ Passionate about automation, web development, and cloud service integration.</i>
 - 💻 Full Stack Developer  
 - ☁️ AWS & Cloud enthusiast  
 - 🌐 Web design & automation  
-- 🤝 Team player  
+- 🤝 Bootcamp Generation | Javengers 
 
 <hr>
 
