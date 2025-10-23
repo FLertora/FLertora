@@ -1,8 +1,8 @@
-# Welcome to my Github Profile 
+# Welcome to my Github Profile 💪
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+I'm+Francisco;Full+Stack+Developer...;AWS+Learner...;Network+Engineering+Student...;Cloud+&+Automation+Enthusiast..."/>
 
-<p><i>Hi, it´s Francisco, I´m a Cloud Infrastructure and Network Engineering student focused on building scalable, efficient, and secure solutions. Currently learning and working with AWS, Python, JavaScript, Java, HTML, CSS, MySQL, Linux, and Git.
+<p><i>Hi, it´s Francisco, I´m a Cloud Infrastructure and Network Engineering student focused on building scalable, efficient, and secure solutions. Currently learning and working with AWS, Python, JavaScript, HTML, CSS, MySQL, Linux, and Git.
 Passionate about automation, web development, and cloud service integration.</i></p>
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
