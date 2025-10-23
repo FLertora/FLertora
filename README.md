@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+I'm+Francisco;Full+Stack+Developer...;AWS+Learner...;Network+Engineering+Student...;Cloud+&+Automation+Enthusiast..."/>
 
-<p><i>Hi, it´s Francisco, I´m a Cloud Infrastructure and Network Engineering student focused on building scalable, efficient, and secure solutions. Currently learning and working with AWS, Python, JavaScript, HTML, CSS, MySQL, Linux, and Git.
+<p><i>Hi, it´s Francisco, I´m a Cloud Infrastructure and Network Engineering student focused on building scalable, efficient, and secure solutions. Currently learning and working with AWS, Python, JavaScript, HTML, CSS, MySQL, VB, Excel, Linux, and Git.
 Passionate about automation, web development, and cloud service integration.</i></p>
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
@@ -27,6 +27,8 @@ Passionate about automation, web development, and cloud service integration.</i>
 
 #### Database
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)&nbsp;
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-512BD4?style=flat&logo=visual-studio&logoColor=white)&nbsp;
 
 #### Tools and Technologies
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
