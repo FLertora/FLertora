@@ -1,6 +1,6 @@
-# Welcome to my Github Profile 💪
+# Hi there 👋, glad to see you here on my profile!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+I'm+Francisco;Full+Stack+Developer...;AWS+Learner...;Network+Engineering+Student...;Cloud+&+Automation+Enthusiast..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+I'm+Francisco;Learning+Full+Stack+Developer...;AWS+Learner...;Network+Engineering+Student...;Cloud+&+Automation+Enthusiast..."/>
 
 <p><i>Hi, it´s Francisco, I´m a Cloud Infrastructure and Network Engineering student focused on building scalable, efficient, and secure solutions. Currently learning and working with AWS, Python, JavaScript, HTML, CSS, MySQL, VB, Excel, Linux, and Git.
 Passionate about automation, web development, and cloud service integration.</i></p>
