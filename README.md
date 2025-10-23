@@ -10,7 +10,7 @@ Passionate about automation, web development, and cloud service integration.</i>
 ## ⚡🙋‍♂️ About Me
 
 - 🎓 Cloud & Network Engineering student  
-- 💻 Full Stack Developer  
+- 💻 Learning Full Stack Developer  
 - ☁️ AWS & Cloud enthusiast  
 - 🌐 Web design & automation  
 - 🤝 Bootcamp Generation | Javengers 
